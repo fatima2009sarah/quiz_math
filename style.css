@@ -1,0 +1,29 @@
+#icon{
+    width: 100;
+    height: 100;
+}
+
+      .login_div1 , .login_div2
+    {
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    }
+
+
+#player1_name , #player2_name
+{
+display: inline-block;
+margin-left: 20px;
+}
+
+#quiz{
+    width: 200;
+    height: 100;
+}
+
+#number_1 , #number_2
+{
+margin: 20px;
+width: 600;
+}
